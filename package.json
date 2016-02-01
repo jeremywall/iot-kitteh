@@ -1,0 +1,16 @@
+{
+  "name": "iot-kitteh",
+  "version": "1.0.0",
+  "description": "An AWS IoT connected vest for cats with GPS and cellular capabilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremy Wall",
+  "license": "MIT",
+  "dependencies": {
+    "aws-iot-device-sdk": "^1.0.10",
+    "lodash": "^4.1.0",
+    "simcom": "^0.3.0"
+  }
+}
