@@ -1,5 +1,5 @@
 # iot-kitteh
-An AWS IoT connected vest for cats with GPS and cellular capabilities.
+An AWS IoT connected vest for cats with GPS and cellular capabilities. Hackster project at https://www.hackster.io/jeremywall/iot-kitteh-df0341
 
 ## Commands
 Here are the commands that can be sent from an MQTT client like MQTT.fx to instruct the iot-kitteh application to perform certain tasks.
