@@ -9,7 +9,7 @@
   "author": "Jeremy Wall",
   "license": "MIT",
   "dependencies": {
-    "aws-iot-device-sdk": "^1.0.10",
+    "aws-iot-device-sdk": "^2.2.1",
     "lodash": "^4.1.0",
     "simcom": "^0.3.0"
   }
